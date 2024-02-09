@@ -1,0 +1,14 @@
+.Grid container {
+    background-color: blue;
+    margin: auto;
+    padding: 15px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.container {
+    background-color: blue;
+    margin: auto;
+    padding: 15px;
+    display: grid;
+    text-decoration: dotted;
+}
